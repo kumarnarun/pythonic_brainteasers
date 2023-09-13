@@ -22,15 +22,15 @@ Welcome to the Python Interview Questions and Solutions repository! Whether you'
 
 2. Learn, Solve, and Collaborate: Whether you're a beginner or a Python pro, there's always something new to learn. Study the solutions, experiment with your own code, and collaborate with the community. We welcome contributions with open arms! 🤝
 
-🎯 Contributing
+🎯 Contributing:
 
 We believe in the power of community-driven learning. If you've got a fantastic Python question to add or a brilliant solution to share, this is your chance! Follow the contribution guidelines provided in the README of each question's subdirectory, and let's collectively make this repository an even more valuable resource. Your insights are gold! 💎
 
-📄 License
+📄 License:
 
 This repository is all about learning and sharing the Python love. It's open-source and distributed under the MIT License. Feel free to use, modify, and share the content for any purpose. Check out the LICENSE file for all the legal details.
 
-🚀 Elevate Your Python Game
+🚀 Elevate Your Python Game:
 
 Are you ready to unlock the full potential of Python? Whether you're gearing up for a Python interview, embarking on a programming journey, or just passionate about Python, this repository is your secret weapon. Supercharge your Python skills, gain confidence, and conquer new coding horizons! 🌠
 
